@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    width: 100%;
+}
+ul {
+    margin: 20px;
+    margin-left: 30px;
+}
+ol {
+    margin: 20px;
+    margin-left: 30px;
+}
+img {
+    position: absolute;
+    top: 50px;
+    right: 100px;
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+.topHalf {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    margin: 20px;
+    color: white;
+}
+h2 {
+    margin: 15px;
+    color: white;
+}
+p {
+    margin: 10px;
+    color: white;
+}
+h3 {
+    margin: 10px;
+}
